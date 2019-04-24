@@ -1,6 +1,7 @@
 import React from 'react'
 import { render } from 'react-dom'
 // Import Highcharts
+// 2FA
 import Highcharts from 'highcharts/highstock'
 
 // Import our demo components
